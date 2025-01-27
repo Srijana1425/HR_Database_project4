@@ -10,10 +10,11 @@ Tech ABC Corp saw explosive growth with a sudden appearance onto the gaming scen
 1. Understanding HR data requirements
 2. Normalizing and importing the HR dataset into a relational database set to the 3rd Normal Form (3NF)
 3. Creating entity relationship diagrams (ERDs) using Lucidchart
+   
     (i) Conceptual ERD
    (ii) Logical ERD
    (iii) Physical ERD
-4. Validating and testing the final database design
+5. Validating and testing the final database design
 
 ## Dataset Description
 The dataset consists of 206 records with eleven columns, including employee names, job titles, departments, managers' names, hire dates, start dates, end dates, work locations, and salaries. The data is currently in a human-readable format and requires normalization.
