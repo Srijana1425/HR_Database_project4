@@ -12,7 +12,9 @@ Tech ABC Corp saw explosive growth with a sudden appearance onto the gaming scen
 3. Creating entity relationship diagrams (ERDs) using Lucidchart
    
     (i) Conceptual ERD
+   
    (ii) Logical ERD
+   
    (iii) Physical ERD
 5. Validating and testing the final database design
 
