@@ -23,6 +23,7 @@ Tech ABC Corp saw explosive growth with a sudden appearance onto the gaming scen
 The dataset consists of 206 records with eleven columns, including employee names, job titles, departments, managers' names, hire dates, start dates, end dates, work locations, and salaries. The data is currently in a human-readable format and requires normalization.
 
 ## Relational Database Design
+Using the dataset provided and the requirements gathered in step one, we developed a relational database set to the 3rd Normal Form (3NF). We created three entity relationship diagrams (ERDs) using Lucidchart to represent our design process:
 
 ## Conceptual ERD 
 ![Conceptual ERD](https://github.com/Srijana1425/HR_Database_project4/blob/main/ERD%20Screenshorts/ER1.jpg)
