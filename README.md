@@ -1,4 +1,4 @@
-## Tech ABC Corp HR Database Project
+## 📊 Tech ABC Corp HR Database Project
 
 ## Project Overview
 This project involves designing and building a relational database for the Human Resources (HR) Department at Tech ABC Corp, a rapidly growing video game company. The objective is to transition from a spreadsheet system to a robust database management system to better handle employee information as the company scales in size.
