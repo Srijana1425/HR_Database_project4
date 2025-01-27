@@ -11,13 +11,13 @@ Tech ABC Corp saw explosive growth with a sudden appearance onto the gaming scen
 - **Understanding HR data requirements**
 - **Normalizing and importing the HR dataset into a relational database set to the 3rd Normal Form (3NF)**
 - **Creating entity relationship diagrams (ERDs) using Lucidchart**
-   -Conceptual ERD
-   -Logical ERD
-   -Physical ERD
+   - Conceptual ERD
+   - Logical ERD
+   - Physical ERD
 - **Validating and testing the final database design**
 
 ## 🗃️ Dataset Description
-- The dataset consists of 206 records with eleven columns, including
+The dataset consists of 206 records with eleven columns, including
  - employee names
  - job titles
  - departments
@@ -43,9 +43,9 @@ Using the dataset provided and the requirements gathered in step one, we develop
 
 ## Project Files 📁
 To further understand our project, please refer to the following files and directories in the repository:
--*CURD Screenshots* : Folder containing CRUD operation screenshots.
--*DDL Screenshots* : Folder containing Data Definition Language (DDL) screenshots.
--*ERD Screenshots* : Folder containing Entity Relationship Diagrams (ERDs) screenshots.
--*Standout Suggestion Screenshots* : Folder containing screenshots of standout suggestions for improving the database.
--*PPT Representation* : File: `SrijanaThapa_ppt_representation.pptx` This PowerPoint presentation provides a visual overview of the project, steps taken, and key outcomes. You can view it [here](https://github.com/Srijana1425/HR_Database_project4/blob/main/SrijanaThapa_ppt_representation.pdf).
--*SQL Code* : File: `code.sql` Contains the SQL code used for creating and managing the database. You can view it [here](https://github.com/Srijana1425/HR_Database_project4/blob/main/code.sql).
+- *CURD Screenshots* : Folder containing CRUD operation screenshots.
+- *DDL Screenshots* : Folder containing Data Definition Language (DDL) screenshots.
+- *ERD Screenshots* : Folder containing Entity Relationship Diagrams (ERDs) screenshots.
+- *Standout Suggestion Screenshots* : Folder containing screenshots of standout suggestions for improving the database.
+- *PPT Representation* : File: `SrijanaThapa_ppt_representation.pptx` This PowerPoint presentation provides a visual overview of the project, steps taken, and key outcomes. You can view it [here](https://github.com/Srijana1425/HR_Database_project4/blob/main/SrijanaThapa_ppt_representation.pdf).
+- *SQL Code* : File: `code.sql` Contains the SQL code used for creating and managing the database. You can view it [here](https://github.com/Srijana1425/HR_Database_project4/blob/main/code.sql).
