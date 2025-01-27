@@ -51,7 +51,7 @@ To further understand our project, please refer to the following files and direc
    Folder containing screenshots of standout suggestions for improving the database.
 
    ### PPT Representation
-   File: `SrijanaThapa_ppt_representation.pptx` This PowerPoint presentation provides a visual overview of the project, steps taken, and key outcomes. You can view it [here](https://github.com/Srijana1425/HR_Database_project4/blob/main/ERD%20Screenshorts/ER1.jpg).
+   File: `SrijanaThapa_ppt_representation.pptx` This PowerPoint presentation provides a visual overview of the project, steps taken, and key outcomes. You can view it [here](https://github.com/Srijana1425/HR_Database_project4/blob/main/SrijanaThapa_ppt_representation.pdf).
 
    ### SQL Code
-   File: `code.sql` Contains the SQL code used for creating and managing the database. You can view it [here](https://github.com/Srijana1425/HR_Database_project4/blob/main/ERD%20Screenshorts/ER1.jpg).
+   File: `code.sql` Contains the SQL code used for creating and managing the database. You can view it [here](https://github.com/Srijana1425/HR_Database_project4/blob/main/code.sql).
