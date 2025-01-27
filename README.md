@@ -22,5 +22,7 @@ Tech ABC Corp saw explosive growth with a sudden appearance onto the gaming scen
 The dataset consists of 206 records with eleven columns, including employee names, job titles, departments, managers' names, hire dates, start dates, end dates, work locations, and salaries. The data is currently in a human-readable format and requires normalization.
 
 ## Relational Database Design
-![image](https://github.com/user-attachments/assets/2f11933c-692d-489a-ae0d-70797e670d0a)
+![Conceptual ERD](https://github.com/user-attachments/assets/2f11933c-692d-489a-ae0d-70797e670d0a)
+![Logical ERD](https://github.com/user-attachments/assets/2f11933c-692d-489a-ae0d-70797e670d0a)
+![Physical ERD](https://github.com/user-attachments/assets/2f11933c-692d-489a-ae0d-70797e670d0a)
 
