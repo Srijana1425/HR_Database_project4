@@ -23,9 +23,12 @@ The dataset consists of 206 records with eleven columns, including employee name
 
 ## Relational Database Design
 
-Conceptual ERD ![Conceptual ERD](https://github.com/Srijana1425/HR_Database_project4/blob/main/ERD%20Screenshorts/ER1.jpg)
+## Conceptual ERD 
+![Conceptual ERD](https://github.com/Srijana1425/HR_Database_project4/blob/main/ERD%20Screenshorts/ER1.jpg)
 
+## Logical ERD 
 ![Logical ERD](https://github.com/Srijana1425/HR_Database_project4/blob/main/ERD%20Screenshorts/ER2.jpg)
 
+## Physical ERD 
 ![Physical ERD](https://github.com/Srijana1425/HR_Database_project4/blob/main/ERD%20Screenshorts/ER3.jpg)
 
