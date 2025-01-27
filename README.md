@@ -38,20 +38,20 @@ Using the dataset provided and the requirements gathered in step one, we develop
 ## Project Files 📁
 To further understand our project, please refer to the following files and directories in the repository:
 
-   # CURD Screenshots
+   ### CURD Screenshots
    Folder containing CRUD operation screenshots.
 
-   # DDL Screenshots
+   ### DDL Screenshots
    Folder containing Data Definition Language (DDL) screenshots.
 
-   # ERD Screenshots
+   ### ERD Screenshots
    Folder containing Entity Relationship Diagrams (ERDs) screenshots.
 
-   # Standout Suggestion Screenshots
+   ### Standout Suggestion Screenshots
    Folder containing screenshots of standout suggestions for improving the database.
 
-   # PPT Representation
+   ### PPT Representation
    File: `SrijanaThapa_ppt_representation.pptx` This PowerPoint presentation provides a visual overview of the project, steps taken, and key outcomes. You can view it [here](https://github.com/Srijana1425/HR_Database_project4/blob/main/ERD%20Screenshorts/ER1.jpg).
 
-   # SQL Code
+   ### SQL Code
    File: `code.sql` Contains the SQL code used for creating and managing the database. You can view it [here](https://github.com/Srijana1425/HR_Database_project4/blob/main/ERD%20Screenshorts/ER1.jpg).
